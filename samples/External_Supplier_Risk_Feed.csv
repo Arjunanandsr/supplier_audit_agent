@@ -1,0 +1,61 @@
+data_label,Supplier Name,Country,External Risk Score,Last Assessment Date,Sanctions Hit,Financial Health,Data Access (vendor declared),Analyst Notes
+SYNTHETIC,Orion Critical Systems,USA,91,10-Oct-2025,Y,C,PII,Sanctions screening: partial name match to restricted-party list; pending review
+SYNTHETIC,Lotus Stationery Supplies Pvt Ltd,India,12,2026-02-15,N,A,None,Ownership change in 2026
+SYNTHETIC,NIMBUS DATA SERVICES PVT LTD,India,78,,N,B,PII,Adverse media: client data incident reported in regional press (unverified)
+SYNTHETIC,Aurora Analytics Group Pvt Ltd,India,68,25-May-2026,N,B,PII,
+SYNTHETIC,EVERGREEN CONSULTING SYSTEMS PVT LTD,India,27,07-Apr-2025,N,B,None,
+SYNTHETIC,LUMEN PAYROLL PARTNERS PVT LTD,India,49,30-Jun-2025,N,C,PII,Payment terms disputed
+SYNTHETIC,Falcon Software Solutions Pvt Ltd,India,56,02-Nov-2025,N,B,Confidential,Payment terms disputed
+SYNTHETIC,Apex Security Technologies GmbH,Germany,5,2025-11-03,N,C,Internal,Payment terms disputed
+SYNTHETIC,EVERGREEN ANALYTICS TECHNOLOGIES INC,Philippines,53,26-Oct-2025,N,C,Internal,Payment terms disputed
+SYNTHETIC,Aurora Logistics Systems,India,70,21-Jun-2025,N,A,Internal,Key contact left
+SYNTHETIC,ZENITH TECH SOLUTIONS GMBH,Germany,52,,N,D,Internal,
+SYNTHETIC,Sterling Facility Solutions,Germany,5,10/03/2026,N,A,None,
+SYNTHETIC,Banyan Facility Systems,USA,5,2026-01-08,N,D,Internal,Late invoices
+SYNTHETIC,HELIX TECH SERVICES PVT LTD,India,83,2025-09-25,N,C,PII,
+SYNTHETIC,Saffron Facility Group Pvt Ltd,India,39,2026-10-15,N,B,Confidential,Payment terms disputed
+SYNTHETIC,FALCON LOGISTICS PARTNERS INC,USA,44,10-May-2025,N,B,Internal,Key contact left
+SYNTHETIC,Harbor Software Partners Inc,Philippines,6,2025-09-11,N,C,Confidential,Payment terms disputed
+SYNTHETIC,Silverline Cloud Solutions Pvt Ltd,India,61,29/06/2026,N,B,PII,Ownership change in 2026
+SYNTHETIC,Granite Software Solutions Inc,USA,40,29/01/2025,N,A,Confidential,
+SYNTHETIC,Vertex Logistics Systems,India,32,07/06/2025,N,D,Confidential,Payment terms disputed
+SYNTHETIC,Pinnacle Payroll Partners Inc,Philippines,56,07-May-2026,N,D,Confidential,
+SYNTHETIC,BLUEPEAK LOGISTICS SOLUTIONS PTE LTD,Singapore,32,18-Dec-2025,N,A,None,Late invoices
+SYNTHETIC,Summit Analytics Partners,Philippines,7,23/05/2025,N,B,Confidential,Key contact left
+SYNTHETIC,Peregrine Digital Group Pte Ltd,Singapore,10,2026-03-01,N,C,None,Ownership change in 2026
+SYNTHETIC,HARBOR ANALYTICS SERVICES LTD,UK,55,07/02/2025,N,B,Confidential,Payment terms disputed
+SYNTHETIC,TIDAL TECH PARTNERS LTD,UK,31,01/03/2026,N,C,PII,
+SYNTHETIC,Tidal Networks Group,UK,21,01-Nov-2025,N,D,Confidential,
+SYNTHETIC,Saffron Networks Systems Pvt Ltd,India,30,20/04/2026,N,B,PII,Late invoices
+SYNTHETIC,Apex Staffing Group Pvt Ltd,India,58,25-Jul-2026,N,C,Internal,
+SYNTHETIC,Silverline Payroll Systems Pvt Ltd,India,14,23-May-2026,Y,D,PII,Late invoices
+SYNTHETIC,Keystone Software Technologies,USA,38,28-Apr-2025,N,B,PII,
+SYNTHETIC,Cobalt Logistics Partners Inc,USA,15,24-Dec-2025,N,B,Confidential,
+SYNTHETIC,Lumen Networks Solutions,USA,30,10-Dec-2024,N,C,Internal,Late invoices
+SYNTHETIC,Saffron Software Services,USA,78,01-May-2025,N,B,Internal,
+SYNTHETIC,Summit Logistics Group Pvt Ltd,India,5,18-Jun-2026,N,B,None,
+SYNTHETIC,GRANITE DATA PARTNERS LTD,UK,31,03-Jul-2026,N,D,PII,
+SYNTHETIC,Redwood Staffing Systems,Germany,45,16/08/2026,N,A,Confidential,
+SYNTHETIC,EVERGREEN PRINT PARTNERS PVT LTD,India,45,13-Jul-2025,N,B,Internal,Ownership change in 2026
+SYNTHETIC,SILVERLINE SOFTWARE SYSTEMS LTD,UK,82,26/03/2026,N,B,Confidential,
+SYNTHETIC,Redwood Software Group,India,35,2025-08-07,N,A,Confidential,
+SYNTHETIC,Saffron Payroll Partners Pvt Ltd,India,68,01/06/2026,N,C,PII,
+SYNTHETIC,Saffron Staffing Partners Inc,USA,53,2024-12-05,N,D,Internal,
+SYNTHETIC,BANYAN STAFFING TECHNOLOGIES PVT LTD,India,33,30/09/2026,N,A,Confidential,Ownership change in 2026
+SYNTHETIC,MONSOON DATA SERVICES PVT LTD,India,58,21-Dec-2025,Y,C,Internal,
+SYNTHETIC,Peregrine Analytics Solutions Ltd,UK,33,17/04/2026,N,A,None,Late invoices
+SYNTHETIC,Saffron Digital Group,India,57,18-Apr-2025,N,B,PII,Ownership change in 2026
+SYNTHETIC,Quantum Facility Partners,Singapore,19,2026-01-17,N,C,None,Key contact left
+SYNTHETIC,Northstar Consulting Services,India,29,2025-07-12,N,B,PII,
+SYNTHETIC,Harbor Digital Services,USA,43,07/05/2026,N,B,Internal,
+SYNTHETIC,Evergreen Software Partners,USA,25,25-May-2025,N,B,Internal,
+SYNTHETIC,Tidal Security Technologies Pvt Ltd,India,27,10/02/2026,Y,B,None,
+SYNTHETIC,MERIDIAN FACILITY SOLUTIONS INC,USA,59,12-Sep-2025,N,D,None,
+SYNTHETIC,Quantum Digital Systems Ltd,UK,28,2025-10-29,N,B,Internal,Late invoices
+SYNTHETIC,Evergreen Networks Services Ltd,UK,60,2026-08-24,N,B,Internal,Key contact left
+SYNTHETIC,INDIGO NETWORKS SOLUTIONS INC,Philippines,45,,N,B,Confidential,Payment terms disputed
+SYNTHETIC,Kestrel Courier Pvt Ltd,India,43,2025-03-01,N,B,None,Not in supplier master
+SYNTHETIC,Mirage Events LLC,India,41,2025-03-01,N,B,None,Not in supplier master
+SYNTHETIC,Orchid Catering Services,India,55,2025-03-01,N,B,None,Not in supplier master
+SYNTHETIC,LUMEN PAYROLL PARTNERS PVT LTD,India,49,30-Jun-2025,N,C,PII,Payment terms disputed
+SYNTHETIC,Aurora Logistics Systems,India,70,21-Jun-2025,N,A,Internal,Key contact left

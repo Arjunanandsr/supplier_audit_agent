@@ -1,0 +1,174 @@
+data_label,vendor_id,vendor_name,country,service_type,contractor_headcount,offshore_delivery
+SYNTHETIC,VMS-0001,Nimbus Data Services Pvt Ltd,India,Data processing,62,Y
+SYNTHETIC,VMS-0002,ORION CRITICAL SYSTEMS INC,US,Cloud hosting,82,Y
+SYNTHETIC,VMS-0003,Lotus Stationery Supplies Pvt Ltd,India,Printing,0,N
+SYNTHETIC,VMS-0004,Summit Staffing Partners Inc,US,Contract staffing,53,N
+SYNTHETIC,VMS-0005,Zenith Software Partners Pvt Ltd,India,Software development,90,N
+SYNTHETIC,VMS-0006,Helix Data Technologies Pvt Ltd,India,Data processing,52,N
+SYNTHETIC,VMS-0007,Redwood Infra Services Inc,United States,Infrastructure support,71,N
+SYNTHETIC,VMS-0008,Banyan Software Services Inc,US,Software development,28,N
+SYNTHETIC,VMS-0009,Harbor Software Partners Inc,PHL,Software development,88,N
+SYNTHETIC,VMS-0010,Silverline Cloud Solutions Pvt Ltd,IND,Cloud hosting,26,N
+SYNTHETIC,VMS-0011,Banyan Analytics Systems GMBH,Germany,Analytics,107,N
+SYNTHETIC,VMS-0012,Banyan Cloud Solutions,Germany,Cloud hosting,16,Y
+SYNTHETIC,VMS-0013,Bluepeak Analytics Partners Pvt Ltd,IND,Analytics,64,Y
+SYNTHETIC,VMS-0014,Indigo Payroll Technologies Ltd,GBR,Payroll processing,6,N
+SYNTHETIC,VMS-0015,Summit Data Solutions Pvt Ltd,IN,Data processing,64,Y
+SYNTHETIC,VMS-0016,Quantum Digital Systems Ltd,GBR,Digital consulting,112,Y
+SYNTHETIC,VMS-0017,Apex Staffing Group Pvt. Ltd.,IND,Contract staffing,17,N
+SYNTHETIC,VMS-0018,granite print technologies pvt ltd,IND,Printing,0,Y
+SYNTHETIC,VMS-0019,Granite Digital Group,GBR,Digital consulting,100,N
+SYNTHETIC,VMS-0020,SUMMIT ANALYTICS PARTNERS INC,PH,Analytics,41,N
+SYNTHETIC,VMS-0021,Harbor Print Group Inc,Philippines,Printing,0,Y
+SYNTHETIC,VMS-0022,Saffron Logistics Technologies Ltd,UK,Logistics,79,N
+SYNTHETIC,VMS-0023,Quantum Facility Partners Pte Ltd,SG,Facility management,0,N
+SYNTHETIC,VMS-0024,aurora tech services pvt ltd,IN,IT services,47,N
+SYNTHETIC,VMS-0025,redwood software group pvt ltd,IND,Software development,97,N
+SYNTHETIC,VMS-0026,Lumen Data Solutions Ltd,UK,Data processing,58,Y
+SYNTHETIC,VMS-0027,Cobalt Consulting Technologies Limited,GBR,Management consulting,35,Y
+SYNTHETIC,VMS-0028,Redwood Payroll Solutions Pvt Ltd,IN,Payroll processing,26,N
+SYNTHETIC,VMS-0029,Cobalt Cloud Group Inc.,United States,Cloud hosting,54,N
+SYNTHETIC,VMS-0030,Pinnacle Networks Partners Pte Ltd,SGP,Network services,67,Y
+SYNTHETIC,VMS-0031,Zenith Facility Services Inc,US,Facility management,39,N
+SYNTHETIC,VMS-0032,PEREGRINE NETWORKS GROUP PVT LTD,IND,Network services,21,Y
+SYNTHETIC,VMS-0033,Crest Networks Partners,IND,Network services,13,N
+SYNTHETIC,VMS-0034,Tidal Tech Partners Ltd,UK,IT services,47,N
+SYNTHETIC,VMS-0035,Zenith Tech Solutions GmbH,DE,IT services,0,N
+SYNTHETIC,VMS-0036,Vertex Logistics Systems Pvt Ltd,IN,Logistics,112,N
+SYNTHETIC,VMS-0037,Apex Facility Systems Pvt Ltd,IND,Facility management,74,Y
+SYNTHETIC,VMS-0038,Pinnacle Payroll Partners Inc,PH,Payroll processing,46,Y
+SYNTHETIC,VMS-0039,Saffron Facility Group Pvt Ltd,IND,Facility management,58,N
+SYNTHETIC,VMS-0040,Sterling Software Technologies Pvt Ltd,IN,Software development,60,N
+SYNTHETIC,VMS-0041,Saffron Tech Partners Pvt Ltd,India,IT services,82,Y
+SYNTHETIC,VMS-0042,Vertex Security Technologies Pvt Ltd,IND,Physical security,79,N
+SYNTHETIC,VMS-0043,Vertex Networks Partners Inc,Philippines,Network services,11,N
+SYNTHETIC,VMS-0044,Saffron Print Partners Inc.,US,Printing,0,N
+SYNTHETIC,VMS-0045,Pinnacle Analytics Group Pvt Ltd,IN,Analytics,35,N
+SYNTHETIC,VMS-0046,Granite Data Partners Ltd,UK,Data processing,96,Y
+SYNTHETIC,VMS-0047,Northstar Staffing Technologies Ltd,UK,Contract staffing,0,N
+SYNTHETIC,VMS-0048,FALCON DIGITAL SYSTEMS INC,United States,Digital consulting,85,N
+SYNTHETIC,VMS-0049,SAFFRON ANALYTICS PARTNERS INC,US,Analytics,0,Y
+SYNTHETIC,VMS-0050,CREST DATA SOLUTIONS LTD,UK,Data processing,71,Y
+SYNTHETIC,VMS-0051,keystone logistics group pvt ltd,India,Logistics,14,Y
+SYNTHETIC,VMS-0052,Helix Software Systems Pte. Ltd.,SG,Software development,40,N
+SYNTHETIC,VMS-0053,Aurora Consulting Partners,India,Management consulting,17,N
+SYNTHETIC,VMS-0054,Evergreen Software Partners Inc,United States,Software development,85,Y
+SYNTHETIC,VMS-0055,Silverline Security Solutions Pvt Ltd,IN,Physical security,60,N
+SYNTHETIC,VMS-0056,Meridian Networks Group Inc,US,Network services,71,Y
+SYNTHETIC,VMS-0057,Saffron Software Services Inc,USA,Software development,0,N
+SYNTHETIC,VMS-0058,Cobalt Print Services GmbH,DE,Printing,0,N
+SYNTHETIC,VMS-0059,Crest Payroll Services Pte Ltd,SGP,Payroll processing,56,N
+SYNTHETIC,VMS-0060,Monsoon Facility Systems Inc,US,Facility management,0,Y
+SYNTHETIC,VMS-0061,Helix Staffing Technologies Inc,Philippines,Contract staffing,104,Y
+SYNTHETIC,VMS-0062,Banyan Networks Solutions,IN,Network services,20,Y
+SYNTHETIC,VMS-0063,Monsoon Infra Solutions Pvt Ltd,India,Infrastructure support,45,Y
+SYNTHETIC,VMS-0064,HELIX TECH SERVICES PVT LTD,IN,IT services,97,Y
+SYNTHETIC,VMS-0065,Quantum Data Solutions Ltd,UK,Data processing,0,N
+SYNTHETIC,VMS-0066,Zenith Analytics Solutions Inc,United States,Analytics,71,N
+SYNTHETIC,VMS-0067,Indigo Analytics Solutions Ltd,GBR,Analytics,56,N
+SYNTHETIC,VMS-0068,Monsoon Data Services Pvt Ltd,IND,Data processing,83,N
+SYNTHETIC,VMS-0069,Harbor Analytics Services Ltd,UK,Analytics,11,N
+SYNTHETIC,VMS-0070,Helix Print Partners Pvt Ltd,IND,Printing,0,N
+SYNTHETIC,VMS-0071,Indigo Networks Solutions Inc,PH,Network services,84,N
+SYNTHETIC,VMS-0072,Falcon Logistics Partners Inc,US,Logistics,0,N
+SYNTHETIC,VMS-0073,MONSOON STAFFING SYSTEMS PVT LTD,IN,Contract staffing,0,N
+SYNTHETIC,VMS-0074,granite infra systems ltd,UK,Infrastructure support,90,N
+SYNTHETIC,VMS-0075,Saffron Digital Group Pvt Ltd,India,Digital consulting,20,Y
+SYNTHETIC,VMS-0076,QUANTUM CONSULTING GROUP PVT LTD,India,Management consulting,37,N
+SYNTHETIC,VMS-0077,apex cloud technologies pvt ltd,India,Cloud hosting,12,Y
+SYNTHETIC,VMS-0078,harbor facility group pvt ltd,IN,Facility management,40,Y
+SYNTHETIC,VMS-0079,Falcon Cloud Solutions Inc,PH,Cloud hosting,60,N
+SYNTHETIC,VMS-0080,Quantum Payroll Systems Ltd,United Kingdom,Payroll processing,108,N
+SYNTHETIC,VMS-0081,Granite Analytics Services Pvt Ltd,IN,Analytics,100,Y
+SYNTHETIC,VMS-0082,Harbor Tech Technologies Inc,Philippines,IT services,25,N
+SYNTHETIC,VMS-0083,Evergreen Payroll Services GmbH,DE,Payroll processing,107,Y
+SYNTHETIC,VMS-0084,Indigo Print Partners Inc.,US,Printing,0,Y
+SYNTHETIC,VMS-0085,EVERGREEN NETWORKS SERVICES LTD,GBR,Network services,0,N
+SYNTHETIC,VMS-0086,Silverline Payroll Systems Pvt Ltd,India,Payroll processing,61,N
+SYNTHETIC,VMS-0087,Silverline Digital Solutions Ltd,UK,Digital consulting,21,N
+SYNTHETIC,VMS-0088,Apex Security Tech,DEU,Physical security,67,N
+SYNTHETIC,VMS-0089,northstar cloud solutions inc,United States,Cloud hosting,47,Y
+SYNTHETIC,VMS-0090,Tidal Security Technologies Pvt Ltd,India,Physical security,15,Y
+SYNTHETIC,VMS-0091,granite software solutions inc,United States,Software development,102,N
+SYNTHETIC,VMS-0092,TIDAL PAYROLL SYSTEMS PVT LTD,India,Payroll processing,2,N
+SYNTHETIC,VMS-0093,Meridian Analytics Group Ltd,GBR,Analytics,61,Y
+SYNTHETIC,VMS-0094,Cobalt Data Systems Ltd,United Kingdom,Data processing,32,Y
+SYNTHETIC,VMS-0095,EVERGREEN ANALYTICS TECHNOLOGIES INC,PH,Analytics,120,N
+SYNTHETIC,VMS-0096,Sterling Facility Solutions GmbH,Germany,Facility management,0,Y
+SYNTHETIC,VMS-0097,Crest Infra Systems Private Limited,India,Infrastructure support,41,Y
+SYNTHETIC,VMS-0098,Silverline Software Systems Ltd,UK,Software development,104,Y
+SYNTHETIC,VMS-0099,Granite Consulting Solutions Pvt Ltd,India,Management consulting,89,N
+SYNTHETIC,VMS-0100,Indigo Security Services Inc,US,Physical security,116,Y
+SYNTHETIC,VMS-0101,bluepeak consulting partners inc,PHL,Management consulting,90,N
+SYNTHETIC,VMS-0102,Redwood Digital Services Pvt Ltd,IND,Digital consulting,45,N
+SYNTHETIC,VMS-0103,Northstar Tech Systems Inc,USA,IT services,118,N
+SYNTHETIC,VMS-0104,Cobalt Security Services Ltd,GBR,Physical security,0,Y
+SYNTHETIC,VMS-0105,Northstar Consulting Services,IND,Management consulting,0,N
+SYNTHETIC,VMS-0106,Vertex Staffing Tech,DEU,Contract staffing,65,Y
+SYNTHETIC,VMS-0107,Tidal Networks Group Ltd,United Kingdom,Network services,80,N
+SYNTHETIC,VMS-0108,Northstar Logistics Partners Inc,United States,Logistics,42,Y
+SYNTHETIC,VMS-0109,Falcon Analytics Partners Inc,USA,Analytics,105,Y
+SYNTHETIC,VMS-0110,Northstar Digital Group Pvt Ltd,IN,Digital consulting,99,Y
+SYNTHETIC,VMS-0111,Granite Facility Group Inc,US,Facility management,0,N
+SYNTHETIC,VMS-0112,Falcon Data Partners Ltd,United Kingdom,Data processing,67,N
+SYNTHETIC,VMS-0113,Falcon Software Solutions Pvt Ltd,India,Software development,23,N
+SYNTHETIC,VMS-0114,Monsoon Logistics Solutions Pvt Ltd,IN,Logistics,25,N
+SYNTHETIC,VMS-0115,bluepeak digital systems inc,PHL,Digital consulting,80,Y
+SYNTHETIC,VMS-0116,Harbor Data Services Inc,US,Data processing,29,N
+SYNTHETIC,VMS-0117,Meridian Data Group Ltd,United Kingdom,Data processing,84,N
+SYNTHETIC,VMS-0118,Crest Analytics Partners Pvt Ltd,India,Analytics,60,N
+SYNTHETIC,VMS-0119,Quantum Software Group Ltd,GBR,Software development,0,N
+SYNTHETIC,VMS-0120,Evergreen Consulting Systems Pvt Ltd,IN,Management consulting,0,N
+SYNTHETIC,VMS-0121,Crest Facility Technologies Pvt Ltd,IND,Facility management,35,Y
+SYNTHETIC,VMS-0122,Zenith Print Solutions Inc,PH,Printing,10,N
+SYNTHETIC,VMS-0123,Zenith Consulting Partners Pvt Ltd,India,Management consulting,13,N
+SYNTHETIC,VMS-0124,Saffron Networks Systems Pvt Ltd,India,Network services,25,N
+SYNTHETIC,VMS-0125,Pinnacle Logistics Technologies Pvt Ltd,IND,Logistics,0,N
+SYNTHETIC,VMS-0126,Lumen Print Technologies Ltd,GBR,Printing,0,N
+SYNTHETIC,VMS-0127,Granite Staffing Group Pvt Ltd,IND,Contract staffing,74,Y
+SYNTHETIC,VMS-0128,Crest Cloud Systems Ltd,GBR,Cloud hosting,55,Y
+SYNTHETIC,VMS-0129,Banyan Facility Systems Inc,United States,Facility management,0,Y
+SYNTHETIC,VMS-0130,Tidal Consulting Systems Pvt Ltd,IND,Management consulting,21,N
+SYNTHETIC,VMS-0131,Banyan Infra Technologies GmbH,DE,Infrastructure support,0,N
+SYNTHETIC,VMS-0132,Tidal Print Services Pvt Ltd,IN,Printing,109,N
+SYNTHETIC,VMS-0133,Meridian Facility Solutions Inc,US,Facility management,0,Y
+SYNTHETIC,VMS-0134,Apex Consulting Systems GmbH,Germany,Management consulting,73,N
+SYNTHETIC,VMS-0135,Bluepeak Logistics Solutions Pte Ltd,SGP,Logistics,0,N
+SYNTHETIC,VMS-0136,Aurora Logistics Systems Pvt Ltd,IN,Logistics,58,N
+SYNTHETIC,VMS-0137,Monsoon Print Sys,India,Printing,0,Y
+SYNTHETIC,VMS-0138,Vertex Payroll Partners Pvt Ltd,IND,Payroll processing,18,Y
+SYNTHETIC,VMS-0139,Northstar Networks Solutions Inc,US,Network services,29,Y
+SYNTHETIC,VMS-0140,Pinnacle Facility Partners,IND,Facility management,0,N
+SYNTHETIC,VMS-0141,Redwood Facility Partners Ltd,GBR,Facility management,72,N
+SYNTHETIC,VMS-0142,Aurora Data Group Pvt Ltd,India,Data processing,5,N
+SYNTHETIC,VMS-0143,Quantum Staffing Solutions Pvt Ltd,IN,Contract staffing,47,Y
+SYNTHETIC,VMS-0144,Apex Analytics Partners Pvt Ltd,IN,Analytics,104,N
+SYNTHETIC,VMS-0145,Summit Infra Systems Inc,PHL,Infrastructure support,118,N
+SYNTHETIC,VMS-0146,APEX DIGITAL TECHNOLOGIES INC,US,Digital consulting,23,Y
+SYNTHETIC,VMS-0147,Bluepeak Print Partners Inc,USA,Printing,74,Y
+SYNTHETIC,VMS-0148,Sterling Analytics Solutions GmbH,DEU,Analytics,39,N
+SYNTHETIC,VMS-0149,pinnacle digital systems pte ltd,Singapore,Digital consulting,118,Y
+SYNTHETIC,VMS-0150,Quantum Logistics Technologies Pvt Ltd,IN,Logistics,54,N
+SYNTHETIC,VMS-0151,Lumen Tech Systems Pvt Ltd,India,IT services,96,N
+SYNTHETIC,VMS-0152,Sterling Data Partners Ltd,United Kingdom,Data processing,82,N
+SYNTHETIC,VMS-0153,Keystone Software Technologies Inc,US,Software development,68,N
+SYNTHETIC,VMS-0154,Harbor Logistics Group Pvt. Ltd.,India,Logistics,0,N
+SYNTHETIC,VMS-0155,peregrine digital group pte ltd,SGP,Digital consulting,0,Y
+SYNTHETIC,VMS-0156,Falcon Tech Group Inc,US,IT services,38,N
+SYNTHETIC,VMS-0157,Harbor Digital Services Inc,US,Digital consulting,11,N
+SYNTHETIC,VMS-0158,Granite Logistics Solutions Ltd,GBR,Logistics,0,Y
+SYNTHETIC,VMS-0159,Peregrine Tech Group Ltd,GBR,IT services,56,N
+SYNTHETIC,VMS-0160,Vertex Facility Systems Inc,United States,Facility management,62,Y
+SYNTHETIC,VMS-0161,Crest Digital Solutions Ltd,GBR,Digital consulting,74,N
+SYNTHETIC,VMS-0162,Summit Payroll Services Private Limited,IN,Payroll processing,42,N
+SYNTHETIC,VMS-0163,Aurora Staffing Services Pte Ltd,Singapore,Contract staffing,86,N
+SYNTHETIC,VMS-0164,Falcon Infra Solutions Ltd,United Kingdom,Infrastructure support,42,N
+SYNTHETIC,VMS-0165,Helix Payroll Partners GmbH,DE,Payroll processing,22,Y
+SYNTHETIC,VMS-0166,Keystone Payroll Technologies Pvt Ltd,IN,Payroll processing,80,N
+SYNTHETIC,VMS-0167,LUMEN PAYROLL PARTNERS PVT LTD,India,Payroll processing,26,Y
+SYNTHETIC,VMS-0168,Granite Security Solutions Inc,USA,Physical security,110,N
+SYNTHETIC,VMS-0169,COBALT LOGISTICS PARTNERS INC,USA,Logistics,119,N
+SYNTHETIC,VMS-0170,Saffron Payroll Partners,IND,Payroll processing,103,N
+SYNTHETIC,VMS-0171,Quillon Courier Services Pvt Ltd,India,Other,2,N
+SYNTHETIC,VMS-0172,Brightwave Event Solutions Pvt Ltd,India,Other,5,N
+SYNTHETIC,VMS-0173,Tarang Catering Group Pvt Ltd,India,Other,8,N

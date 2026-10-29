@@ -1,0 +1,27 @@
+SYNTHETIC SAMPLE DOCUMENT - FOR DEMONSTRATION ONLY
+
+SUPPLIER SELF-ASSESSMENT QUESTIONNAIRE
+Supplier: Lotus Stationery Supplies Pvt Ltd
+Service: Office stationery and printing supplies
+Completed: 12 October 2026
+
+Q1. Does your organization access client systems or client data?
+Answer: No. We deliver physical goods only. We do not receive client data or system access.
+
+Q2. Do your staff work at client premises?
+Answer: Deliveries only, escorted at the reception desk.
+
+Q3. Do you hold information security certifications?
+Answer: No. Not applicable to our service.
+
+Q4. Do you use sub-contractors?
+Answer: One regional courier for deliveries. No client data is shared.
+
+Q5. Business continuity
+Answer: Two warehouses in Pune and Chennai; stock can be supplied from either site.
+
+Q6. Anti-bribery and code of conduct
+Answer: Code of conduct signed by all staff in 2026.
+
+Q7. Any incidents in the last 12 months?
+Answer: None reported.

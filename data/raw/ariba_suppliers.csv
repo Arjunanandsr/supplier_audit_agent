@@ -1,0 +1,206 @@
+data_label,supplier_id,supplier_name,tax_id,country,category_code,onboarding_date,assessment_score,assessment_comments,certifications,data_access_declared,criticality_declared
+SYNTHETIC,ARB-0001,Helix Print Partners Pvt Ltd,TXIN39556373,IND,82120000,2024-08-23,76,Documented change management.,ISO27001:2028-03-31,none,high
+SYNTHETIC,ARB-0002,Meridian Analytics Group Ltd,TXGB56589536,United Kingdom,43230000,28/05/2023,91,Encryption at rest and in transit for client data.,ISO27001:2026-04-21,pii,high
+SYNTHETIC,ARB-0003,Evergreen Analytics Technologies Inc,TXPH35399879,Philippines,43230000,2023-01-24,82,Access reviews run quarterly.,,internal,medium
+SYNTHETIC,ARB-0004,Granite Facility Group Inc,TXUS54154712,US,72100000,18/03/2026,80,Annual security awareness training completed.,,internal,medium
+SYNTHETIC,ARB-0005,Banyan Networks Solutions Pvt Ltd,TXIN50640579,India,81110000,2023-01-15,60,Access reviews run quarterly. Laptops not fully disk-encrypted. MFA rollout planned next year.,,confidential,low
+SYNTHETIC,ARB-0006,Aurora Infra Technologies GmbH,TXDE57677109,DEU,81110000,2025-04-06,91,Encryption at rest and in transit for client data. Shared admin accounts still in use.,,confidential,low
+SYNTHETIC,ARB-0007,Falcon Analytics Partners Inc,TXUS45395451,USA,43230000,13/06/2023,87,Documented change management.,ISO27001:2028-03-03|SOC2:2028-02-01,pii,medium
+SYNTHETIC,ARB-0008,Pinnacle Digital Systems Pte Ltd,TXSG58291121,SGP,80100000,16/10/2025,78,All controls in place per last review.,ISO27001:2029-01-04,confidential,critical
+SYNTHETIC,ARB-0009,Quantum Staffing Solutions Pvt Ltd,TXIN84291251,IND,80110000,10/12/2022,80,Encryption at rest and in transit for client data.,,internal,critical
+SYNTHETIC,ARB-0010,Helix Cloud Partners Pvt Ltd,TXIN49110677,India,81110000,07/06/2025,64,Access reviews run quarterly. Laptops not fully disk-encrypted.,ISO27001:2028-09-23|SOC2:2027-06-14,none,medium
+SYNTHETIC,ARB-0011,Cobalt Cloud Group Inc,TXUS42523771,USA,81110000,19/08/2023,80,All controls in place per last review.,ISO27001:2027-05-16|SOC2:2027-11-01,pii,medium
+SYNTHETIC,ARB-0012,Falcon Software Solutions Pvt Ltd,TXIN21857934,IN,43230000,16/01/2025,73,Access reviews run quarterly.,ISO27001:2027-11-19|SOC2:2027-12-18,internal,medium
+SYNTHETIC,ARB-0013,Indigo Facility Systems Pvt Ltd,TXIN42374607,IND,72100000,2022-08-24,52,Documented change management. Backups not tested this year. Data stored in offshore data centre without client approval.,,confidential,low
+SYNTHETIC,ARB-0014,Indigo Networks Solutions Inc,TXPH21309746,Philippines,81110000,23/01/2024,78,Encryption at rest and in transit for client data.,,confidential,medium
+SYNTHETIC,ARB-0015,Peregrine Tech Group Ltd,TXGB26425247,United Kingdom,81110000,2024-01-21,85,Access reviews run quarterly.,,confidential,medium
+SYNTHETIC,ARB-0016,Falcon Digital Systems Inc,TXUS95702474,US,80100000,29/03/2023,70,Access reviews run quarterly.,,confidential,low
+SYNTHETIC,ARB-0017,Falcon Tech Group Inc,TXUS18047305,US,81110000,2023-09-12,73,All controls in place per last review.,ISO27001:2029-04-14,internal,medium
+SYNTHETIC,ARB-0018,Monsoon Facility Systems Inc,TXUS53382768,US,72100000,2023-11-29,57,Access reviews run quarterly. Laptops not fully disk-encrypted.,ISO27001:2027-09-01|SOC2:2027-03-16,none,medium
+SYNTHETIC,ARB-0019,Sterling Software Technologies Pvt Ltd,TXIN85087030,India,43230000,2023-10-08,72,ISO certified ISMS with annual review.,ISO27001:2028-08-15,internal,medium
+SYNTHETIC,ARB-0020,Zenith Analytics Solutions Inc,TXUS95788497,US,43230000,2023-05-05,88,Access reviews run quarterly.,ISO27001:2028-12-15,confidential,medium
+SYNTHETIC,ARB-0021,Quantum Software Group Ltd,TXGB23204247,UK,43230000,09/04/2023,89,Access reviews run quarterly.,,none,medium
+SYNTHETIC,ARB-0022,Helix Staffing Technologies Inc,TXPH24721918,PH,80110000,28/07/2025,78,ISO certified ISMS with annual review.,,confidential,medium
+SYNTHETIC,ARB-0023,Lumen Payroll Partners Pvt Ltd,TXIN43533719,India,84110000,2025-03-27,89,Documented change management.,,pii,high
+SYNTHETIC,ARB-0024,Redwood Payroll Solutions Pvt Ltd,TXIN59897489,IND,84110000,31/05/2024,67,Documented change management. Laptops not fully disk-encrypted. No formal incident response plan yet.,,internal,high
+SYNTHETIC,ARB-0025,Vertex Logistics Systems Pvt Ltd,TXIN96382685,IN,78100000,30/08/2024,82,All controls in place per last review.,,confidential,medium
+SYNTHETIC,ARB-0026,Quantum Print Technologies Inc,TXPH28694552,PHL,82120000,04/12/2022,89,Access reviews run quarterly.,ISO27001:2028-02-01,confidential,low
+SYNTHETIC,ARB-0027,Indigo Security Services Inc,TXUS24795558,US,92120000,31/12/2022,82,All controls in place per last review.,,internal,medium
+SYNTHETIC,ARB-0028,Northstar Consulting Services Pvt Ltd,TXIN32786614,IN,80100000,2023-07-25,86,Encryption at rest and in transit for client data.,,internal,medium
+SYNTHETIC,ARB-0029,Cobalt Security Services Ltd,TXGB88688749,UK,92120000,2025-05-09,77,Access reviews run quarterly.,,internal,low
+SYNTHETIC,ARB-0030,Cobalt Consulting Technologies Ltd,TXGB12704912,United Kingdom,80100000,2024-12-25,82,Access reviews run quarterly.,,confidential,medium
+SYNTHETIC,ARB-0031,Monsoon Infra Solutions Pvt Ltd,TXIN44212016,India,81110000,2025-08-09,67,Documented change management. Laptops not fully disk-encrypted. Data stored in offshore data centre without client approval.,,confidential,medium
+SYNTHETIC,ARB-0032,Meridian Facility Solutions Inc,TXUS20705797,United States,72100000,2024-07-06,85,All controls in place per last review.,ISO27001:2026-04-27,none,critical
+SYNTHETIC,ARB-0033,Evergreen Networks Services Ltd,TXGB24136561,United Kingdom,81110000,11/08/2025,95,ISO certified ISMS with annual review. Laptops not fully disk-encrypted.,,internal,high
+SYNTHETIC,ARB-0034,Meridian Data Group Ltd,TXGB92516356,GBR,43230000,22/03/2023,81,All controls in place per last review.,ISO27001:2028-03-08,pii,medium
+SYNTHETIC,ARB-0035,Keystone Cloud Services GmbH,TXDE10149541,Germany,81110000,2024-12-11,59,ISO certified ISMS with annual review. Shared admin accounts still in use. MFA rollout planned next year.,,confidential,medium
+SYNTHETIC,ARB-0036,Harbor Tech Technologies Inc,TXPH38937969,PHL,81110000,2022-08-25,83,Encryption at rest and in transit for client data. MFA rollout planned next year.,ISO27001:2028-04-01,pii,medium
+SYNTHETIC,ARB-0037,Zenith Security Partners Inc,TXUS92388202,USA,92120000,2024-01-12,60,Access reviews run quarterly. Laptops not fully disk-encrypted.,,none,low
+SYNTHETIC,ARB-0038,Summit Data Solutions Pvt Ltd,TXIN64731629,IND,43230000,08/10/2025,75,Documented change management. MFA rollout planned next year.,,pii,low
+SYNTHETIC,ARB-0039,Granite Infra Systems Ltd,TXGB16457968,United Kingdom,81110000,2025-02-06,71,Documented change management.,ISO27001:2027-04-23|SOC2:2027-09-04,internal,medium
+SYNTHETIC,ARB-0040,Evergreen Payroll Services GmbH,TXDE51851271,DEU,84110000,2023-03-19,69,Annual security awareness training completed. Penetration test overdue by six months.,,confidential,medium
+SYNTHETIC,ARB-0041,Harbor Digital Services Inc,TXUS97385138,USA,80100000,19/10/2022,75,Documented change management.,ISO27001:2027-06-22,internal,high
+SYNTHETIC,ARB-0042,Silverline Security Solutions Pvt Ltd,TXIN46040612,India,92120000,04/08/2024,79,Encryption at rest and in transit for client data. Laptops not fully disk-encrypted.,,internal,medium
+SYNTHETIC,ARB-0043,Bluepeak Analytics Partners Pvt Ltd,TXIN57576816,India,43230000,2024-06-27,71,Annual security awareness training completed.,ISO27001:2028-01-14,pii,medium
+SYNTHETIC,ARB-0044,Quantum Data Solutions Ltd,TXGB57869748,GBR,43230000,2023-05-25,78,All controls in place per last review.,,internal,critical
+SYNTHETIC,ARB-0045,Crest Print Technologies Pvt Ltd,TXIN69440241,IN,82120000,30/11/2022,67,Access reviews run quarterly. MFA rollout planned next year. Laptops not fully disk-encrypted.,ISO27001:2028-10-08,internal,medium
+SYNTHETIC,ARB-0046,Evergreen Software Partners Inc,TXUS85571603,USA,43230000,2025-03-28,78,Documented change management.,ISO27001:2027-05-20|SOC2:2028-03-03,internal,low
+SYNTHETIC,ARB-0047,Summit Analytics Partners Inc,TXPH98974350,PH,43230000,11/10/2023,76,Documented change management. Penetration test overdue by six months.,,confidential,low
+SYNTHETIC,ARB-0048,Tidal Consulting Systems Pvt Ltd,TXIN22829810,India,80100000,2023-05-25,94,Documented change management.,ISO27001:2028-05-28,internal,low
+SYNTHETIC,ARB-0049,Keystone Payroll Technologies Pvt Ltd,TXIN83647708,IND,84110000,2023-11-11,73,Access reviews run quarterly. Data stored in offshore data centre without client approval.,,pii,high
+SYNTHETIC,ARB-0050,Bluepeak Print Partners Inc,TXUS76745316,USA,82120000,29/06/2023,78,ISO certified ISMS with annual review.,ISO27001:2027-10-23|SOC2:2027-04-22,internal,high
+SYNTHETIC,ARB-0051,Northstar Networks Solutions Inc,TXUS43378899,United States,81110000,04/02/2023,67,Encryption at rest and in transit for client data. Penetration test overdue by six months.,,pii,low
+SYNTHETIC,ARB-0052,Apex Digital Technologies Inc,TXUS52188336,USA,80100000,2023-05-01,64,Encryption at rest and in transit for client data. Laptops not fully disk-encrypted. Backups not tested this year.,ISO27001:2027-04-23|SOC2:2027-10-02,internal,low
+SYNTHETIC,ARB-0053,Orion Critical Systems Inc,TXUS85529025,United States,81110000,2024-03-27,55,MFA rollout planned next year. Shared admin accounts still in use. Backups not tested this year.,,pii,critical
+SYNTHETIC,ARB-0054,Crest Infra Systems Pvt Ltd,TXIN23758940,IN,81110000,2023-09-08,82,ISO certified ISMS with annual review.,ISO27001:2027-04-11,confidential,medium
+SYNTHETIC,ARB-0055,Aurora Tech Services Pvt Ltd,TXIN84587052,India,81110000,28/11/2024,95,ISO certified ISMS with annual review.,ISO27001:2028-04-01|SOC2:2028-02-19,confidential,medium
+SYNTHETIC,ARB-0056,Falcon Infra Solutions Ltd,TXGB92859927,UK,81110000,11/10/2025,75,ISO certified ISMS with annual review.,,pii,low
+SYNTHETIC,ARB-0057,Redwood Infra Services Inc,TXUS71368188,US,81110000,09/10/2024,72,Access reviews run quarterly. Data stored in offshore data centre without client approval.,ISO27001:2028-12-02|SOC2:2027-12-26,internal,low
+SYNTHETIC,ARB-0058,Saffron Software Services Inc,TXUS40724836,United States,43230000,2022-10-25,98,All controls in place per last review.,,internal,medium
+SYNTHETIC,ARB-0059,Granite Staffing Group Pvt Ltd,TXIN60323592,IND,80110000,2025-01-19,99,Encryption at rest and in transit for client data.,,pii,low
+SYNTHETIC,ARB-0060,Aurora Security Services Pvt Ltd,TXIN14509602,IN,92120000,10/11/2022,82,Documented change management.,,confidential,medium
+SYNTHETIC,ARB-0061,Saffron Digital Group Pvt Ltd,TXIN93862336,IN,80100000,2024-07-04,72,ISO certified ISMS with annual review.,ISO27001:2028-11-22,confidential,low
+SYNTHETIC,ARB-0062,Lumen Security Services Inc,TXUS40816330,United States,92120000,2025-06-14,70,Annual security awareness training completed.,ISO27001:2025-11-18,none,low
+SYNTHETIC,ARB-0063,Banyan Infra Technologies GmbH,TXDE15138851,DE,81110000,26/06/2025,62,Documented change management. MFA rollout planned next year. Laptops not fully disk-encrypted.,ISO27001:2027-09-07,none,low
+SYNTHETIC,ARB-0064,Banyan Facility Systems Inc,TXUS81501132,USA,72100000,2023-11-20,76,Documented change management.,ISO27001:2027-09-29,internal,low
+SYNTHETIC,ARB-0065,Apex Analytics Partners Pvt Ltd,TXIN69180242,IN,43230000,2024-01-24,63,Annual security awareness training completed. MFA rollout planned next year. Shared admin accounts still in use.,ISO27001:2028-06-07,pii,low
+SYNTHETIC,ARB-0066,Harbor Software Partners Inc,TXPH66043787,PH,43230000,2024-02-16,68,Access reviews run quarterly. Penetration test overdue by six months.,,confidential,high
+SYNTHETIC,ARB-0067,Sterling Facility Solutions GmbH,TXDE14868708,DEU,72100000,20/11/2022,72,Access reviews run quarterly. No formal incident response plan yet.,ISO27001:2028-10-08,none,medium
+SYNTHETIC,ARB-0068,Monsoon Staffing Systems Pvt Ltd,TXIN77575472,IND,80110000,23/03/2024,94,Encryption at rest and in transit for client data.,,none,medium
+SYNTHETIC,ARB-0069,Granite Print Technologies Pvt Ltd,TXIN67358569,IND,82120000,2023-10-20,84,ISO certified ISMS with annual review.,ISO27001:2026-04-30,none,medium
+SYNTHETIC,ARB-0070,Harbor Payroll Services Pvt Ltd,TXIN81427184,India,84110000,2023-01-26,97,All controls in place per last review.,ISO27001:2029-03-14|SOC2:2027-12-12,pii,high
+SYNTHETIC,ARB-0071,Summit Staffing Partners Inc,TXUS84459703,US,80110000,2025-11-16,75,Access reviews run quarterly.,,pii,low
+SYNTHETIC,ARB-0072,Sterling Tech Systems Ltd,TXGB29075914,United Kingdom,81110000,2026-02-28,84,Documented change management.,,confidential,medium
+SYNTHETIC,ARB-0073,Monsoon Digital Solutions Inc,TXUS28957574,US,80100000,2023-10-07,78,Encryption at rest and in transit for client data.,ISO27001:2028-12-02,pii,low
+SYNTHETIC,ARB-0074,Helix Data Technologies Pvt Ltd,TXIN93140498,IN,43230000,01/08/2024,59,Access reviews run quarterly. Shared admin accounts still in use.,ISO27001:2028-10-28|SOC2:2027-02-08,pii,low
+SYNTHETIC,ARB-0075,Tidal Networks Group Ltd,TXGB57792403,UK,81110000,2024-02-12,81,Encryption at rest and in transit for client data.,ISO27001:2025-10-13,confidential,critical
+SYNTHETIC,ARB-0076,Indigo Payroll Technologies Ltd,TXGB49419064,United Kingdom,84110000,2024-12-17,88,Annual security awareness training completed.,,confidential,low
+SYNTHETIC,ARB-0077,Zenith Consulting Partners Pvt Ltd,TXIN35848154,India,80100000,04/04/2026,83,Documented change management.,,confidential,high
+SYNTHETIC,ARB-0078,Meridian Staffing Solutions Inc,TXUS67511228,United States,80110000,23/12/2022,88,All controls in place per last review. Data stored in offshore data centre without client approval.,,confidential,low
+SYNTHETIC,ARB-0079,Harbor Infra Partners Inc,TXUS77856270,USA,81110000,11/02/2026,78,Documented change management.,ISO27001:2028-12-07|SOC2:2027-02-02,internal,low
+SYNTHETIC,ARB-0080,Harbor Print Group Inc,TXPH10207789,Philippines,82120000,27/12/2024,80,Encryption at rest and in transit for client data.,ISO27001:2026-08-28,none,low
+SYNTHETIC,ARB-0081,Saffron Staffing Partners Inc,TXUS59737421,US,80110000,2024-07-03,60,Annual security awareness training completed. No formal incident response plan yet. Penetration test overdue by six months.,ISO27001:2028-01-23,internal,high
+SYNTHETIC,ARB-0082,Saffron Print Partners Inc,TXUS99403164,United States,82120000,2025-07-23,88,Documented change management.,ISO27001:2025-12-11,internal,medium
+SYNTHETIC,ARB-0083,Apex Cloud Technologies Pvt Ltd,TXIN35257607,IN,81110000,2025-04-24,82,All controls in place per last review.,,internal,low
+SYNTHETIC,ARB-0084,Lotus Stationery Supplies Pvt Ltd,TXIN35280674,IND,82120000,28/07/2022,90,Documented change management.,,none,low
+SYNTHETIC,ARB-0085,Redwood Staffing Systems GmbH,TXDE89031747,DEU,80110000,12/10/2023,92,Documented change management. MFA rollout planned next year.,ISO27001:2025-09-29,internal,medium
+SYNTHETIC,ARB-0086,Silverline Software Systems Ltd,TXGB15585679,United Kingdom,43230000,2025-06-30,66,Encryption at rest and in transit for client data. Shared admin accounts still in use.,,confidential,high
+SYNTHETIC,ARB-0087,Aurora Analytics Group Pvt Ltd,TXIN45776904,IND,43230000,2023-10-21,76,All controls in place per last review.,ISO27001:2025-11-23,pii,low
+SYNTHETIC,ARB-0088,Crest Networks Partners Pvt Ltd,TXIN51243583,India,81110000,17/08/2025,61,All controls in place per last review. Penetration test overdue by six months. No formal incident response plan yet.,ISO27001:2029-01-04,pii,critical
+SYNTHETIC,ARB-0089,Evergreen Cloud Technologies Inc,TXUS81809141,United States,81110000,2025-12-12,77,All controls in place per last review.,ISO27001:2028-06-01|SOC2:2027-07-16,internal,low
+SYNTHETIC,ARB-0090,Cobalt Data Systems Ltd,TXGB21612705,United Kingdom,43230000,23/06/2024,73,Annual security awareness training completed.,,pii,medium
+SYNTHETIC,ARB-0091,Nimbus Data Services Pvt Ltd,TXIN49065297,IND,43230000,21/12/2023,70,Encryption at rest and in transit for client data.,ISO27001:2028-10-11,internal,high
+SYNTHETIC,ARB-0092,Monsoon Logistics Solutions Pvt Ltd,TXIN23709403,IND,78100000,21/04/2023,73,Encryption at rest and in transit for client data.,,confidential,critical
+SYNTHETIC,ARB-0093,Silverline Digital Solutions Ltd,TXGB80887188,United Kingdom,80100000,13/12/2023,94,All controls in place per last review.,ISO27001:2025-11-04,confidential,low
+SYNTHETIC,ARB-0094,Meridian Networks Group Inc,TXUS66905453,United States,81110000,2025-04-25,71,Encryption at rest and in transit for client data.,,internal,high
+SYNTHETIC,ARB-0095,Zenith Tech Solutions GmbH,TXDE54706429,DE,81110000,2026-02-20,58,ISO certified ISMS with annual review. No formal incident response plan yet.,,internal,medium
+SYNTHETIC,ARB-0096,Pinnacle Facility Partners Pvt Ltd,TXIN45363465,IND,72100000,2025-12-12,76,Encryption at rest and in transit for client data.,ISO27001:2028-05-29|SOC2:2027-12-27,none,medium
+SYNTHETIC,ARB-0097,Saffron Facility Group Pvt Ltd,TXIN23785688,IND,72100000,2023-05-11,89,Annual security awareness training completed.,ISO27001:2027-03-22,confidential,high
+SYNTHETIC,ARB-0098,Monsoon Print Systems Pvt Ltd,TXIN92966720,IN,82120000,2023-04-07,75,Documented change management.,ISO27001:2026-05-14,none,low
+SYNTHETIC,ARB-0099,Bluepeak Networks Solutions Pvt Ltd,TXIN68289528,India,81110000,24/10/2025,66,Annual security awareness training completed. Data stored in offshore data centre without client approval. No formal incident response plan yet.,ISO27001:2028-06-29|SOC2:2027-10-24,internal,medium
+SYNTHETIC,ARB-0100,Pinnacle Payroll Partners Inc,TXPH38724084,PH,84110000,2022-09-01,99,Documented change management.,,confidential,medium
+SYNTHETIC,ARB-0101,Banyan Analytics Systems GmbH,TXDE47254334,Germany,43230000,31/10/2025,68,ISO certified ISMS with annual review. Backups not tested this year. Shared admin accounts still in use.,,internal,low
+SYNTHETIC,ARB-0102,Silverline Payroll Systems Pvt Ltd,TXIN75356211,IN,84110000,2025-08-21,70,Annual security awareness training completed.,,pii,low
+SYNTHETIC,ARB-0103,Vertex Staffing Technologies GmbH,TXDE74760823,DEU,80110000,2024-07-27,91,ISO certified ISMS with annual review.,ISO27001:2027-06-13,confidential,high
+SYNTHETIC,ARB-0104,Redwood Digital Services Pvt Ltd,TXIN51498948,India,80100000,2024-04-09,66,ISO certified ISMS with annual review. Laptops not fully disk-encrypted.,,internal,low
+SYNTHETIC,ARB-0105,Saffron Consulting Group Pvt Ltd,TXIN37261036,IND,80100000,12/04/2025,42,Annual security awareness training completed. Laptops not fully disk-encrypted.,ISO27001:2029-01-16,none,high
+SYNTHETIC,ARB-0106,Cobalt Staffing Systems Pvt Ltd,TXIN69395617,IND,80110000,2026-01-18,86,All controls in place per last review. Penetration test overdue by six months.,,internal,critical
+SYNTHETIC,ARB-0107,Summit Logistics Group Pvt Ltd,TXIN69240961,IN,78100000,2023-02-25,67,Documented change management. MFA rollout planned next year.,,none,low
+SYNTHETIC,ARB-0108,Aurora Staffing Services Pte Ltd,TXSG63972582,Singapore,80110000,01/10/2025,99,Access reviews run quarterly.,ISO27001:2027-02-22,pii,medium
+SYNTHETIC,ARB-0109,Helix Tech Services Pvt Ltd,TXIN16556692,IN,81110000,04/02/2023,49,Documented change management. MFA rollout planned next year. Laptops not fully disk-encrypted.,,pii,low
+SYNTHETIC,ARB-0110,Cobalt Logistics Partners Inc,TXUS52550557,United States,78100000,02/02/2023,94,All controls in place per last review.,ISO27001:2027-02-11,internal,low
+SYNTHETIC,ARB-0111,Crest Analytics Partners Pvt Ltd,TXIN65252723,IND,43230000,2026-02-07,75,Annual security awareness training completed.,ISO27001:2027-05-30|SOC2:2028-03-11,confidential,critical
+SYNTHETIC,ARB-0112,Indigo Analytics Solutions Ltd,TXGB95505498,United Kingdom,43230000,2025-12-18,94,Encryption at rest and in transit for client data.,ISO27001:2027-08-14|SOC2:2027-07-29,internal,medium
+SYNTHETIC,ARB-0113,Saffron Logistics Technologies Ltd,TXGB57300679,United Kingdom,78100000,24/04/2024,76,Documented change management.,ISO27001:2028-01-13|SOC2:2027-12-07,internal,high
+SYNTHETIC,ARB-0114,Pinnacle Networks Partners Pte Ltd,TXSG40844227,SGP,81110000,2025-10-31,50,Access reviews run quarterly. No formal incident response plan yet.,ISO27001:2027-02-13,confidential,medium
+SYNTHETIC,ARB-0115,Pinnacle Logistics Technologies Pvt Ltd,TXIN60021374,IND,78100000,2025-10-24,73,ISO certified ISMS with annual review.,ISO27001:2026-05-05,internal,low
+SYNTHETIC,ARB-0116,Zenith Facility Services Inc,TXUS25951195,United States,72100000,11/09/2025,71,Access reviews run quarterly.,ISO27001:2027-07-21|SOC2:2028-02-02,confidential,medium
+SYNTHETIC,ARB-0117,Banyan Staffing Technologies Pvt Ltd,TXIN18162587,IND,80110000,22/06/2024,75,ISO certified ISMS with annual review.,ISO27001:2028-08-24,confidential,high
+SYNTHETIC,ARB-0118,Northstar Staffing Technologies Ltd,TXGB71028465,GBR,80110000,2025-02-15,81,ISO certified ISMS with annual review.,,none,medium
+SYNTHETIC,ARB-0119,Northstar Logistics Partners Inc,TXUS98756517,United States,78100000,2025-05-20,55,All controls in place per last review. Penetration test overdue by six months. Data stored in offshore data centre without client approval.,ISO27001:2028-07-04|SOC2:2028-03-01,pii,low
+SYNTHETIC,ARB-0120,Aurora Data Group Pvt Ltd,TXIN86140680,IND,43230000,2026-02-14,78,Documented change management. Laptops not fully disk-encrypted.,,pii,medium
+SYNTHETIC,ARB-0121,Evergreen Consulting Systems Pvt Ltd,TXIN62529565,IND,80100000,09/06/2024,69,ISO certified ISMS with annual review. Backups not tested this year. Laptops not fully disk-encrypted.,ISO27001:2026-02-10,none,medium
+SYNTHETIC,ARB-0122,Aurora Logistics Systems Pvt Ltd,TXIN13622836,India,78100000,2025-12-10,80,All controls in place per last review. Backups not tested this year.,ISO27001:2027-02-10,internal,low
+SYNTHETIC,ARB-0123,Quantum Facility Partners Pte Ltd,TXSG98917395,SG,72100000,07/04/2023,91,Encryption at rest and in transit for client data.,,none,low
+SYNTHETIC,ARB-0124,Tidal Payroll Systems Pvt Ltd,TXIN50466941,IN,84110000,2023-09-10,57,Documented change management. No formal incident response plan yet. MFA rollout planned next year.,ISO27001:2025-11-27,confidential,medium
+SYNTHETIC,ARB-0125,Evergreen Print Partners Pvt Ltd,TXIN36069692,IN,82120000,12/12/2023,69,Documented change management. No formal incident response plan yet. MFA rollout planned next year.,,internal,high
+SYNTHETIC,ARB-0126,Northstar Cloud Solutions Inc,TXUS90323892,USA,81110000,2025-06-19,99,ISO certified ISMS with annual review.,ISO27001:2029-03-27|SOC2:2028-02-26,pii,medium
+SYNTHETIC,ARB-0127,Redwood Software Group Pvt Ltd,TXIN77176250,IND,43230000,2024-05-25,76,ISO certified ISMS with annual review. Penetration test overdue by six months.,ISO27001:2026-09-11,confidential,low
+SYNTHETIC,ARB-0128,Summit Payroll Services Pvt Ltd,TXIN77465675,IN,84110000,19/12/2024,78,Access reviews run quarterly.,,pii,high
+SYNTHETIC,ARB-0129,Peregrine Analytics Solutions Ltd,TXGB34997780,UK,43230000,2025-07-16,86,Documented change management.,,none,high
+SYNTHETIC,ARB-0130,Monsoon Data Services Pvt Ltd,TXIN99262694,India,43230000,28/07/2023,78,Access reviews run quarterly.,,internal,high
+SYNTHETIC,ARB-0131,Zenith Software Partners Pvt Ltd,TXIN50758082,IND,43230000,19/01/2025,70,All controls in place per last review.,ISO27001:2027-04-29|SOC2:2028-02-14,internal,critical
+SYNTHETIC,ARB-0132,Lumen Data Solutions Ltd,TXGB57827243,United Kingdom,43230000,20/07/2024,83,ISO certified ISMS with annual review.,ISO27001:2027-03-31,internal,medium
+SYNTHETIC,ARB-0133,Harbor Logistics Group Pvt Ltd,TXIN77586171,IND,78100000,2024-03-17,69,Annual security awareness training completed. Backups not tested this year.,,none,medium
+SYNTHETIC,ARB-0134,Quantum Consulting Group Pvt Ltd,TXIN69399614,IND,80100000,2024-09-10,93,Access reviews run quarterly.,,internal,medium
+SYNTHETIC,ARB-0135,Granite Logistics Solutions Ltd,TXGB25505832,GBR,78100000,11/01/2023,82,Annual security awareness training completed.,,none,medium
+SYNTHETIC,ARB-0136,Crest Digital Solutions Ltd,TXGB37223225,GBR,80100000,19/09/2025,53,Annual security awareness training completed. Backups not tested this year.,,internal,critical
+SYNTHETIC,ARB-0137,Vertex Security Technologies Pvt Ltd,TXIN42506704,IN,92120000,02/12/2024,85,Encryption at rest and in transit for client data.,ISO27001:2028-01-13,confidential,high
+SYNTHETIC,ARB-0138,Lumen Tech Systems Pvt Ltd,TXIN95278203,India,81110000,01/09/2022,64,All controls in place per last review. Data stored in offshore data centre without client approval. Backups not tested this year.,ISO27001:2027-01-19,none,low
+SYNTHETIC,ARB-0139,Falcon Logistics Partners Inc,TXUS74305535,USA,78100000,2025-03-03,69,ISO certified ISMS with annual review. Backups not tested this year.,,internal,low
+SYNTHETIC,ARB-0140,Harbor Analytics Services Ltd,TXGB42970193,UK,43230000,2024-06-06,66,Documented change management. Penetration test overdue by six months.,ISO27001:2027-06-18,confidential,high
+SYNTHETIC,ARB-0141,Keystone Logistics Group Pvt Ltd,TXIN76125016,IN,78100000,2023-09-30,78,Documented change management.,ISO27001:2028-11-26,internal,low
+SYNTHETIC,ARB-0142,Falcon Cloud Solutions Inc,TXPH76465964,PHL,81110000,24/03/2024,99,Annual security awareness training completed.,ISO27001:2026-03-05,pii,low
+SYNTHETIC,ARB-0143,Vertex Networks Partners Inc,TXPH45479944,PHL,81110000,22/05/2025,87,Encryption at rest and in transit for client data.,,pii,low
+SYNTHETIC,ARB-0144,Tidal Tech Partners Ltd,TXGB46282618,United Kingdom,81110000,17/06/2024,95,Annual security awareness training completed.,ISO27001:2028-05-01|SOC2:2027-05-20,confidential,medium
+SYNTHETIC,ARB-0145,Banyan Software Services Inc,TXUS90486430,USA,43230000,23/12/2023,86,Annual security awareness training completed.,,pii,high
+SYNTHETIC,ARB-0146,Aurora Consulting Partners Pvt Ltd,TXIN60563703,IN,80100000,2024-10-11,82,All controls in place per last review.,,internal,high
+SYNTHETIC,ARB-0147,Northstar Digital Group Pvt Ltd,TXIN23456407,IN,80100000,15/02/2024,92,Annual security awareness training completed.,ISO27001:2027-12-15,internal,medium
+SYNTHETIC,ARB-0148,Crest Facility Technologies Pvt Ltd,TXIN74780428,IN,72100000,2023-06-26,82,ISO certified ISMS with annual review.,ISO27001:2027-11-19,internal,medium
+SYNTHETIC,ARB-0149,Quantum Logistics Technologies Pvt Ltd,TXIN63061124,IND,78100000,16/12/2025,80,All controls in place per last review.,,internal,medium
+SYNTHETIC,ARB-0150,Tidal Print Services Pvt Ltd,TXIN55804073,India,82120000,2024-03-31,83,Encryption at rest and in transit for client data.,ISO27001:2027-04-09|SOC2:2027-04-30,confidential,medium
+SYNTHETIC,ARB-0151,Zenith Print Solutions Inc,TXPH75259379,PHL,82120000,17/10/2024,73,Access reviews run quarterly.,ISO27001:2029-02-17,confidential,low
+SYNTHETIC,ARB-0152,Granite Consulting Solutions Pvt Ltd,TXIN91637769,India,80100000,10/12/2024,78,ISO certified ISMS with annual review.,,internal,high
+SYNTHETIC,ARB-0153,Banyan Cloud Solutions GmbH,TXDE39739254,DEU,81110000,2024-03-17,93,All controls in place per last review.,ISO27001:2029-04-01,pii,high
+SYNTHETIC,ARB-0154,Bluepeak Logistics Solutions Pte Ltd,TXSG47737088,Singapore,78100000,04/03/2024,73,Access reviews run quarterly.,ISO27001:2028-07-31,none,low
+SYNTHETIC,ARB-0155,Quantum Digital Systems Ltd,TXGB27054563,UK,80100000,2022-12-17,64,ISO certified ISMS with annual review. Laptops not fully disk-encrypted. MFA rollout planned next year.,,internal,high
+SYNTHETIC,ARB-0156,Granite Software Solutions Inc,TXUS68236461,USA,43230000,2024-07-22,67,Encryption at rest and in transit for client data. MFA rollout planned next year. Backups not tested this year.,ISO27001:2027-08-23,pii,low
+SYNTHETIC,ARB-0157,Crest Payroll Services Pte Ltd,TXSG46244246,SGP,84110000,2026-01-30,89,Access reviews run quarterly.,ISO27001:2028-09-16|SOC2:2027-03-04,confidential,high
+SYNTHETIC,ARB-0158,Granite Security Solutions Inc,TXUS40812618,United States,92120000,18/05/2024,74,All controls in place per last review.,ISO27001:2027-01-19|SOC2:2027-12-23,pii,low
+SYNTHETIC,ARB-0159,Cobalt Software Group GmbH,TXDE72687095,DEU,43230000,27/06/2025,57,Documented change management. MFA rollout planned next year. Data stored in offshore data centre without client approval.,ISO27001:2026-04-11,internal,high
+SYNTHETIC,ARB-0160,Harbor Data Services Inc,TXUS46734100,United States,43230000,2023-12-26,76,ISO certified ISMS with annual review.,ISO27001:2027-11-23|SOC2:2027-03-18,confidential,medium
+SYNTHETIC,ARB-0161,Granite Data Partners Ltd,TXGB51793109,UK,43230000,2023-10-19,84,Documented change management.,ISO27001:2028-12-21,pii,high
+SYNTHETIC,ARB-0162,Redwood Data Services Pvt Ltd,TXIN49604509,IN,43230000,22/10/2022,73,Access reviews run quarterly.,ISO27001:2026-04-09,internal,medium
+SYNTHETIC,ARB-0163,Cobalt Print Services GmbH,TXDE33268442,DE,82120000,02/08/2024,83,Encryption at rest and in transit for client data.,ISO27001:2025-10-25,none,low
+SYNTHETIC,ARB-0164,Granite Analytics Services Pvt Ltd,TXIN21322631,India,43230000,2022-11-24,73,Encryption at rest and in transit for client data. MFA rollout planned next year.,,pii,medium
+SYNTHETIC,ARB-0165,Saffron Analytics Partners Inc,TXUS84451041,USA,43230000,29/11/2025,80,Access reviews run quarterly.,ISO27001:2027-08-11,none,medium
+SYNTHETIC,ARB-0166,Quantum Payroll Systems Ltd,TXGB18255131,UK,84110000,2025-09-12,91,Encryption at rest and in transit for client data.,,pii,high
+SYNTHETIC,ARB-0167,Lumen Print Technologies Ltd,TXGB39239096,GBR,82120000,30/11/2024,64,Encryption at rest and in transit for client data. Data stored in offshore data centre without client approval.,,none,low
+SYNTHETIC,ARB-0168,Saffron Tech Partners Pvt Ltd,TXIN70074093,IND,81110000,17/08/2022,89,Annual security awareness training completed.,,pii,low
+SYNTHETIC,ARB-0169,Bluepeak Digital Systems Inc,TXPH21816544,Philippines,80100000,2023-10-13,89,ISO certified ISMS with annual review.,ISO27001:2026-04-23,confidential,low
+SYNTHETIC,ARB-0170,Apex Staffing Group Pvt Ltd,TXIN68996596,IN,80110000,25/09/2024,67,Access reviews run quarterly. Shared admin accounts still in use.,ISO27001:2026-03-09,none,low
+SYNTHETIC,ARB-0171,Northstar Tech Systems Inc,TXUS75975941,USA,81110000,2023-10-28,53,All controls in place per last review. MFA rollout planned next year.,ISO27001:2027-12-22,internal,medium
+SYNTHETIC,ARB-0172,Helix Payroll Partners GmbH,TXDE69661874,DEU,84110000,16/07/2025,84,Annual security awareness training completed.,,confidential,medium
+SYNTHETIC,ARB-0173,Crest Cloud Systems Ltd,TXGB37452939,United Kingdom,81110000,2025-01-12,81,All controls in place per last review.,,confidential,medium
+SYNTHETIC,ARB-0174,Sterling Data Partners Ltd,TXGB11778980,GBR,43230000,2024-08-18,98,Encryption at rest and in transit for client data.,ISO27001:2027-12-13|SOC2:2027-07-08,internal,high
+SYNTHETIC,ARB-0175,Harbor Facility Group Pvt Ltd,TXIN89861699,India,72100000,2025-04-15,97,Annual security awareness training completed.,ISO27001:2028-08-27,internal,critical
+SYNTHETIC,ARB-0176,Pinnacle Analytics Group Pvt Ltd,TXIN39389215,IND,43230000,18/07/2023,93,Access reviews run quarterly.,,pii,high
+SYNTHETIC,ARB-0177,Helix Software Systems Pte Ltd,TXSG82450557,Singapore,43230000,2022-10-15,76,ISO certified ISMS with annual review.,ISO27001:2026-07-06,confidential,low
+SYNTHETIC,ARB-0178,Lumen Networks Solutions Inc,TXUS27802886,United States,81110000,19/01/2025,72,ISO certified ISMS with annual review.,ISO27001:2027-09-25,internal,low
+SYNTHETIC,ARB-0179,Peregrine Digital Group Pte Ltd,TXSG24616943,SG,80100000,2024-06-09,99,Annual security awareness training completed.,ISO27001:2028-07-12,none,medium
+SYNTHETIC,ARB-0180,Banyan Payroll Solutions Ltd,TXGB80033628,UK,84110000,2025-06-01,92,ISO certified ISMS with annual review.,,pii,medium
+SYNTHETIC,ARB-0181,Northstar Analytics Services Pvt Ltd,TXIN94575874,IN,43230000,2024-08-15,87,Encryption at rest and in transit for client data.,,pii,low
+SYNTHETIC,ARB-0182,Granite Digital Group Ltd,TXGB87456736,GBR,80100000,23/01/2026,95,All controls in place per last review.,ISO27001:2027-03-21,internal,medium
+SYNTHETIC,ARB-0183,Vertex Facility Systems Inc,TXUS77612155,USA,72100000,30/06/2025,85,Documented change management.,ISO27001:2026-02-11,internal,critical
+SYNTHETIC,ARB-0184,Saffron Payroll Partners Pvt Ltd,TXIN32201233,India,84110000,2024-10-04,77,All controls in place per last review.,ISO27001:2026-04-13,pii,medium
+SYNTHETIC,ARB-0185,Apex Facility Systems Pvt Ltd,TXIN92188945,IND,72100000,2024-02-26,76,ISO certified ISMS with annual review.,ISO27001:2026-06-07,confidential,low
+SYNTHETIC,ARB-0186,Redwood Facility Partners Ltd,TXGB70106424,GBR,72100000,01/10/2023,80,Annual security awareness training completed.,ISO27001:2028-07-27|SOC2:2028-01-17,internal,low
+SYNTHETIC,ARB-0187,Saffron Networks Systems Pvt Ltd,TXIN25494802,IN,81110000,15/08/2025,52,Documented change management. No formal incident response plan yet. Backups not tested this year.,ISO27001:2029-02-09,pii,medium
+SYNTHETIC,ARB-0188,Indigo Print Partners Inc,TXUS21642652,United States,82120000,22/01/2023,83,Access reviews run quarterly. MFA rollout planned next year.,ISO27001:2028-06-28,none,high
+SYNTHETIC,ARB-0189,Silverline Cloud Solutions Pvt Ltd,TXIN88404560,IN,81110000,2023-06-25,80,ISO certified ISMS with annual review.,ISO27001:2027-10-30|SOC2:2028-03-09,pii,high
+SYNTHETIC,ARB-0190,Apex Consulting Systems GmbH,TXDE34763727,DE,80100000,06/12/2025,94,Documented change management.,ISO27001:2029-03-26,confidential,low
+SYNTHETIC,ARB-0191,Crest Data Solutions Ltd,TXGB78930314,GBR,43230000,08/10/2022,87,ISO certified ISMS with annual review.,,pii,low
+SYNTHETIC,ARB-0192,Tidal Security Technologies Pvt Ltd,TXIN22478904,India,92120000,2025-04-29,50,ISO certified ISMS with annual review. Shared admin accounts still in use. Backups not tested this year.,ISO27001:2027-02-09,none,low
+SYNTHETIC,ARB-0193,Bluepeak Consulting Partners Inc,TXPH35248507,PH,80100000,2023-10-26,67,Access reviews run quarterly. Data stored in offshore data centre without client approval. Laptops not fully disk-encrypted.,ISO27001:2028-08-28|SOC2:2028-01-04,internal,medium
+SYNTHETIC,ARB-0194,Peregrine Networks Group Pvt Ltd,TXIN35516868,IND,81110000,2025-09-27,73,ISO certified ISMS with annual review.,ISO27001:2027-11-26,internal,high
+SYNTHETIC,ARB-0195,Summit Infra Systems Inc,TXPH35299379,PHL,81110000,2023-05-23,98,Annual security awareness training completed.,ISO27001:2025-10-26,none,low
+SYNTHETIC,ARB-0196,Apex Security Technologies GmbH,TXDE70726289,DEU,92120000,01/09/2022,92,ISO certified ISMS with annual review.,ISO27001:2027-04-22,internal,high
+SYNTHETIC,ARB-0197,Falcon Data Partners Ltd,TXGB92295001,UK,43230000,2025-06-11,80,Annual security awareness training completed.,,confidential,high
+SYNTHETIC,ARB-0198,Keystone Software Technologies Inc,TXUS91929421,USA,43230000,13/08/2025,47,Documented change management. Laptops not fully disk-encrypted. Shared admin accounts still in use.,,none,high
+SYNTHETIC,ARB-0199,Vertex Payroll Partners Pvt Ltd,TXIN76739529,India,84110000,2023-03-04,80,Access reviews run quarterly.,,internal,low
+SYNTHETIC,ARB-0200,Sterling Analytics Solutions GmbH,TXDE28227016,DE,43230000,2023-07-29,82,Encryption at rest and in transit for client data.,,internal,medium
+SYNTHETIC,ARB-0096,Pinnacle Facility Partners Pvt Ltd,TXIN45363465,IND,72100000,2025-12-12,76,Encryption at rest and in transit for client data.,ISO27001:2028-05-29|SOC2:2027-12-27,none,medium
+SYNTHETIC,ARB-0016,Falcon Digital Systems Inc,TXUS95702474,US,80100000,29/03/2023,70,Access reviews run quarterly.,,confidential,low
+SYNTHETIC,ARB-0031,Monsoon Infra Solutions Pvt Ltd,TXIN44212016,India,81110000,2025-08-09,67,Documented change management. Laptops not fully disk-encrypted. Data stored in offshore data centre without client approval.,,confidential,medium
+SYNTHETIC,ARB-0159,Cobalt Software Group GmbH,TXDE72687095,DEU,43230000,27/06/2025,57,Documented change management. MFA rollout planned next year. Data stored in offshore data centre without client approval.,ISO27001:2026-04-11,internal,high
+SYNTHETIC,ARB-0129,Peregrine Analytics Solutions Ltd,TXGB34997780,UK,43230000,2025-07-16,86,Documented change management.,,none,high

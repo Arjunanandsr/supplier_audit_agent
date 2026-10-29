@@ -1,0 +1,59 @@
+# AuditPilot risk model. Change values here, not in code.
+# Every risk result records this version.
+version: "1.0"
+
+weights:
+  data_sensitivity: 0.25
+  access_exposure: 0.15
+  business_criticality: 0.15
+  financial_exposure: 0.10
+  assessment_result: 0.15
+  audit_history: 0.15
+  certification_gap: 0.05
+
+data_sensitivity:
+  none: 0
+  internal: 30
+  confidential: 70
+  pii: 100
+
+# [min_users, max_users, factor_score]
+access_bands:
+  - [0, 0, 0]
+  - [1, 10, 40]
+  - [11, 50, 70]
+  - [51, 1000000, 100]
+
+business_criticality:
+  low: 25
+  medium: 50
+  high: 75
+  critical: 100
+
+assessment:
+  red_flag_penalty: 10      # added per AI-extracted red flag
+  missing_score: 50         # used when no assessment exists
+
+audit_history:
+  critical_open: 25
+  high_open: 15
+  medium_open: 5
+  unsatisfactory_bonus: 20
+
+certification_gap:
+  valid: 0
+  expired: 70
+  none: 100
+
+financial:
+  missing_percentile: 50
+
+tiers:
+  critical: 80
+  high: 60
+  medium: 40
+
+overrides:
+  critical_finding_floor: 60
+  pii_no_cert_floor: 60
+  low_confidence_below: 0.60

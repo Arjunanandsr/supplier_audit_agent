@@ -1,0 +1,43 @@
+# AuditPilot eligibility, frequency, scope and planning rules.
+# Proposed defaults: align with your internal audit policy.
+version: "1.0"
+
+eligibility:
+  data_access_levels: [confidential, pii]
+  min_users_with_access: 1
+  criticality_tiers: [high, critical]
+  min_risk_score: 40
+
+frequency:
+  Critical: {audit_type: "On-site audit + quarterly control check", interval_months: 12, first_within_days: 30}
+  High:     {audit_type: "Remote or on-site audit", interval_months: 12, first_within_days: 30}
+  Medium:   {audit_type: "Remote / desk audit", interval_months: 24, first_within_days: 90}
+  Low:      {audit_type: "Self-assessment questionnaire", interval_months: 36, first_within_days: 90}
+
+# Conditions are implemented in core/eligibility.py, keyed by "id".
+scope_modules:
+  - {id: governance,     name: "Governance and contract compliance", condition: "Always"}
+  - {id: infosec,        name: "Information security",               condition: "Users with system access > 0, or data access >= confidential"}
+  - {id: privacy,        name: "Data privacy",                       condition: "Data access = PII / client data"}
+  - {id: bcp,            name: "Business continuity and DR",         condition: "Criticality = high or critical"}
+  - {id: physical,       name: "Physical and offshore security",     condition: "Offshore delivery = yes"}
+  - {id: subprocessor,   name: "Sub-processor management",           condition: "Uses sub-processors = yes"}
+  - {id: findings,       name: "Findings follow-up",                 condition: "Any open findings"}
+  - {id: certification,  name: "Certification review",               condition: "Certification expired or missing"}
+
+planner:
+  auditors: 3
+  audits_per_auditor_per_month: 8
+  horizon_months: 12
+  min_lead_days: 35          # audit date is never sooner than this, so task 1 is not born overdue
+
+# Offsets are days relative to the audit date T.
+tasks:
+  - {seq: 1, title: "Approve audit plan and scope",                      owner_role: audit_owner,    offset: -35}
+  - {seq: 2, title: "Send pre-audit questionnaire and evidence request", owner_role: audit_owner,    offset: -30}
+  - {seq: 3, title: "Confirm supplier contacts and audit window",        owner_role: supplier_owner, offset: -21}
+  - {seq: 4, title: "Review security evidence",                          owner_role: ism,            offset: -7, requires_module: infosec}
+  - {seq: 5, title: "Conduct audit",                                     owner_role: audit_owner,    offset: 0}
+  - {seq: 6, title: "Issue audit report and findings",                   owner_role: audit_owner,    offset: 10}
+  - {seq: 7, title: "Track remediation of findings (30-day check)",      owner_role: supplier_owner, offset: 30}
+  - {seq: 8, title: "Track remediation of findings (60-day check)",      owner_role: ism,            offset: 60}

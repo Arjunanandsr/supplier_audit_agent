@@ -1,0 +1,36 @@
+SYNTHETIC SAMPLE DOCUMENT - FOR DEMONSTRATION ONLY
+
+SOC 2 TYPE II REPORT - SUMMARY OF EXCEPTIONS
+Service organization: Orion Critical Systems Inc
+System: Orion Managed Cloud Hosting Platform
+Review period: 1 July 2025 to 30 June 2026
+Report issued: 15 September 2026
+Service auditor: Independent CPA firm (synthetic)
+
+SECTION 1 - AUDITOR OPINION
+In our opinion, except for the matters described in Section 4, the controls were suitably designed and operated
+effectively to meet the Security and Availability trust services criteria. The opinion is qualified.
+
+SECTION 2 - SYSTEM DESCRIPTION
+Orion hosts production workloads containing client personal data for 40 enterprise customers. Operations are
+delivered from data centres in the United States and a support centre in India. Orion uses two sub-service
+organizations for colocation and managed backup.
+
+SECTION 3 - COMPLEMENTARY USER ENTITY CONTROLS
+Customers are responsible for managing their own user provisioning and for reviewing access logs provided by Orion.
+
+SECTION 4 - TESTS OF CONTROLS WITH EXCEPTIONS
+CC6.1 Logical access. Exception noted: shared administrator accounts were used for the hypervisor management
+console during 4 of 12 months tested. Individual accountability could not be established.
+CC6.3 Access removal. Exception noted: 7 of 25 sampled terminated employees retained access for more than
+30 days after leaving.
+CC7.2 Monitoring. Exception noted: security alerts from the SIEM were not reviewed for 19 days in March 2026
+because of staffing gaps.
+A1.2 Backup and recovery. Exception noted: backups were not tested for restoration during the review period.
+CC8.1 Change management. No exceptions noted.
+CC9.2 Vendor management. Exception noted: annual risk assessments of the two sub-service organizations were
+overdue by more than six months.
+
+SECTION 5 - MANAGEMENT RESPONSE
+Management plans to replace shared accounts with named privileged accounts by December 2026 and has hired two
+additional security analysts.

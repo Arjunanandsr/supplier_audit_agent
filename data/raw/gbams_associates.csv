@@ -1,0 +1,151 @@
+data_label,associate_id,associate_org_name,country,users_with_system_access,data_access_level,access_locations
+SYNTHETIC,GB-0001,Nimbus Data Services Pvt Ltd,IN,30,pii,Offshore
+SYNTHETIC,GB-0002,Orion Critical Systems Incorporated,USA,80,pii,Offshore
+SYNTHETIC,GB-0003,Vertex Security Technologies Pvt Ltd,IN,22,confidential,Onshore
+SYNTHETIC,GB-0004,Monsoon Logistics Solutions Pvt Ltd,IND,37,confidential,Onshore
+SYNTHETIC,GB-0005,Zenith Facility Services Inc,USA,27,confidential,Onshore
+SYNTHETIC,GB-0006,Cobalt Staffing Systems Pvt Ltd,IN,168,internal,Onshore
+SYNTHETIC,GB-0007,Northstar Analytics Services,IND,43,pii,Onshore
+SYNTHETIC,GB-0008,Redwood Infra Services Inc,USA,22,confidential,Onshore
+SYNTHETIC,GB-0009,Sterling Tech Systems Ltd,GBR,133,confidential,Offshore
+SYNTHETIC,GB-0010,Granite Staffing Group,India,58,pii,Offshore
+SYNTHETIC,GB-0011,granite infra systems ltd,UK,3,internal,Onshore
+SYNTHETIC,GB-0012,Indigo Networks Solutions Inc,PH,37,confidential,Onshore
+SYNTHETIC,GB-0013,Aurora Security Services Pvt Ltd,India,1,confidential,Offshore
+SYNTHETIC,GB-0014,granite digital group ltd,GBR,25,confidential,Onshore
+SYNTHETIC,GB-0015,Redwood Software Group Pvt. Ltd.,IN,34,confidential,Onshore
+SYNTHETIC,GB-0016,Lumen Payroll Partners Pvt Ltd,IND,32,pii,Offshore
+SYNTHETIC,GB-0017,Harbor Analytics Services Ltd,United Kingdom,37,confidential,Onshore
+SYNTHETIC,GB-0018,Aurora Data Group Pvt Ltd,IN,4,pii,Onshore
+SYNTHETIC,GB-0019,Meridian Data Group Ltd,UK,1,pii,Onshore
+SYNTHETIC,GB-0020,Quantum Payroll Systems Ltd,United Kingdom,22,pii,Onshore
+SYNTHETIC,GB-0021,Granite Data Partners Ltd,United Kingdom,4,pii,Offshore
+SYNTHETIC,GB-0022,tidal print services pvt ltd,India,178,confidential,Onshore
+SYNTHETIC,GB-0023,Cobalt Cloud Group Inc,USA,2,pii,Onshore
+SYNTHETIC,GB-0024,Helix Tech Services Pvt Ltd,India,6,pii,Offshore
+SYNTHETIC,GB-0025,Saffron Networks Systems Pvt Ltd,IN,17,pii,Onshore
+SYNTHETIC,GB-0026,Bluepeak Networks Solutions Pvt Ltd,IN,10,confidential,Offshore
+SYNTHETIC,GB-0027,Monsoon Infra Solutions Pvt Ltd,IND,12,confidential,Offshore
+SYNTHETIC,GB-0028,Pinnacle Payroll Partners Inc.,PHL,10,confidential,Offshore
+SYNTHETIC,GB-0029,Aurora Logistics Systems Pvt Ltd,IN,162,internal,Onshore
+SYNTHETIC,GB-0030,Vertex Payroll Partners Pvt Ltd,India,3,internal,Offshore
+SYNTHETIC,GB-0031,Falcon Tech Group Inc,United States,80,internal,Onshore
+SYNTHETIC,GB-0032,Crest Networks Partners Pvt Ltd,IND,37,pii,Onshore
+SYNTHETIC,GB-0033,Saffron Print Partners,United States,0,internal,Onshore
+SYNTHETIC,GB-0034,Quantum Logistics Technologies Pvt Ltd,IN,23,internal,Onshore
+SYNTHETIC,GB-0035,Keystone Software Technologies Inc,USA,14,internal,Onshore
+SYNTHETIC,GB-0036,Saffron Consulting Group Pvt Ltd,IND,4,none,Onshore
+SYNTHETIC,GB-0037,Crest Payroll Services Pte. Ltd.,Singapore,8,confidential,Onshore
+SYNTHETIC,GB-0038,Tidal Networks Group Ltd,UK,5,confidential,Onshore
+SYNTHETIC,GB-0039,Tidal Consulting Systems Pvt Ltd,IND,29,internal,Onshore
+SYNTHETIC,GB-0040,APEX CLOUD TECHNOLOGIES PVT LTD,IND,45,internal,Offshore
+SYNTHETIC,GB-0041,Pinnacle Digital Systems Pte Ltd,SGP,14,confidential,Offshore
+SYNTHETIC,GB-0042,Aurora Tech Services Pvt Ltd,India,6,confidential,Onshore
+SYNTHETIC,GB-0043,Crest Cloud Systems Ltd,United Kingdom,1,confidential,Offshore
+SYNTHETIC,GB-0044,Banyan Networks Solutions Private Limited,India,143,confidential,Offshore
+SYNTHETIC,GB-0045,Sterling Analytics Solutions GmbH,Germany,62,internal,Onshore
+SYNTHETIC,GB-0046,Evergreen Payroll Services GmbH,Germany,41,confidential,Offshore
+SYNTHETIC,GB-0047,granite software solutions inc,US,89,pii,Onshore
+SYNTHETIC,GB-0048,Evergreen Software Partners Inc,United States,7,internal,Offshore
+SYNTHETIC,GB-0049,Zenith Consulting Partners Pvt Ltd,IND,7,confidential,Onshore
+SYNTHETIC,GB-0050,Lumen Tech Systems Pvt Ltd,IN,102,internal,Onshore
+SYNTHETIC,GB-0051,Pinnacle Networks Partners Pte Ltd,SGP,46,confidential,Offshore
+SYNTHETIC,GB-0052,Banyan Payroll Solutions Ltd,GBR,19,pii,Onshore
+SYNTHETIC,GB-0053,Indigo Security Services Inc,US,39,internal,Offshore
+SYNTHETIC,GB-0054,Quantum Staffing Solutions Pvt Ltd,India,45,internal,Offshore
+SYNTHETIC,GB-0055,Falcon Software Solutions Pvt Ltd,IND,15,confidential,Onshore
+SYNTHETIC,GB-0056,summit data solutions pvt ltd,IND,25,pii,Offshore
+SYNTHETIC,GB-0057,Zenith Software Partners Pvt Ltd,IN,21,internal,Onshore
+SYNTHETIC,GB-0058,Silverline Software Systems Ltd,UK,9,confidential,Offshore
+SYNTHETIC,GB-0059,Summit Staffing Partners Inc,USA,7,pii,Onshore
+SYNTHETIC,GB-0060,Bluepeak Consulting Partners Inc,Philippines,5,internal,Onshore
+SYNTHETIC,GB-0061,Quantum Consulting Group Pvt Ltd,India,28,internal,Onshore
+SYNTHETIC,GB-0062,Cobalt Software Group GmbH,DEU,16,confidential,Offshore
+SYNTHETIC,GB-0063,Helix Payroll Partners GmbH,Germany,72,confidential,Offshore
+SYNTHETIC,GB-0064,Vertex Facility Systems Inc,United States,9,internal,Offshore
+SYNTHETIC,GB-0065,Falcon Logistics Partners Inc.,US,0,internal,Onshore
+SYNTHETIC,GB-0066,Peregrine Networks Group Pvt Ltd,India,44,confidential,Offshore
+SYNTHETIC,GB-0067,Meridian Networks Group Inc,United States,101,internal,Offshore
+SYNTHETIC,GB-0068,Indigo Analytics Solutions Ltd,United Kingdom,29,internal,Onshore
+SYNTHETIC,GB-0069,Quantum Digital Systems Ltd,GBR,7,internal,Offshore
+SYNTHETIC,GB-0070,Redwood Data Services Pvt Ltd,IND,98,confidential,Offshore
+SYNTHETIC,GB-0071,Redwood Staffing Systems GmbH,DE,3,confidential,Offshore
+SYNTHETIC,GB-0072,Zenith Analytics Solutions Inc,United States,3,confidential,Onshore
+SYNTHETIC,GB-0073,Lumen Data Solutions Limited,United Kingdom,7,internal,Offshore
+SYNTHETIC,GB-0074,Keystone Payroll Technologies Pvt Ltd,IN,4,pii,Onshore
+SYNTHETIC,GB-0075,Tidal Security Technologies Private Limited,India,5,none,Offshore
+SYNTHETIC,GB-0076,Crest Data Solns,UK,7,pii,Offshore
+SYNTHETIC,GB-0077,Harbor Payroll Services Pvt Ltd,India,1,pii,Onshore
+SYNTHETIC,GB-0078,Bluepeak Analytics Partners Pvt Ltd,India,162,pii,Offshore
+SYNTHETIC,GB-0079,Apex Staffing Group Pvt Ltd,IN,18,internal,Onshore
+SYNTHETIC,GB-0080,Falcon Analytics Partners Inc,United States,7,pii,Offshore
+SYNTHETIC,GB-0081,Helix Cloud Partners,IND,16,internal,Onshore
+SYNTHETIC,GB-0082,Banyan Software Services Inc,United States,62,pii,Onshore
+SYNTHETIC,GB-0083,Cobalt Logistics Partners,United States,146,internal,Onshore
+SYNTHETIC,GB-0084,Silverline Cloud Solutions Pvt Ltd,IN,1,pii,Onshore
+SYNTHETIC,GB-0085,Indigo Payroll Technologies Ltd,United Kingdom,5,confidential,Onshore
+SYNTHETIC,GB-0086,Granite Analytics Services Pvt Ltd,IND,10,pii,Offshore
+SYNTHETIC,GB-0087,Northstar Tech Systems Inc.,US,21,internal,Onshore
+SYNTHETIC,GB-0088,Crest Digital Solutions Ltd,UK,48,confidential,Onshore
+SYNTHETIC,GB-0089,Crest Print Technologies Pvt Ltd,India,1,internal,Onshore
+SYNTHETIC,GB-0090,Bluepeak Print Partners Inc,United States,147,internal,Offshore
+SYNTHETIC,GB-0091,Evergreen Networks Services Limited,UK,0,internal,Onshore
+SYNTHETIC,GB-0092,Harbor Tech Technologies Inc,Philippines,16,pii,Onshore
+SYNTHETIC,GB-0093,Banyan Cloud Solutions GmbH,Germany,25,pii,Offshore
+SYNTHETIC,GB-0094,Tidal Payroll Systems Pvt Ltd,IND,26,confidential,Onshore
+SYNTHETIC,GB-0095,Vertex Staffing Technologies GmbH,DEU,174,confidential,Offshore
+SYNTHETIC,GB-0096,Granite Facility Group Inc,USA,0,internal,Onshore
+SYNTHETIC,GB-0097,Northstar Consulting Services,IND,0,internal,Onshore
+SYNTHETIC,GB-0098,Harbor Infra Partners Inc,United States,7,confidential,Onshore
+SYNTHETIC,GB-0099,Summit Analytics Partners Inc,PHL,9,confidential,Onshore
+SYNTHETIC,GB-0100,Zenith Print Solutions Inc,Philippines,5,confidential,Onshore
+SYNTHETIC,GB-0101,Crest Infra Systems Pvt Ltd,IN,32,pii,Offshore
+SYNTHETIC,GB-0102,Crest Analytics Partners Pvt Ltd,India,15,confidential,Onshore
+SYNTHETIC,GB-0103,Cobalt Security Services Ltd,GBR,0,internal,Offshore
+SYNTHETIC,GB-0104,Saffron Staffing Partners Inc,US,29,internal,Onshore
+SYNTHETIC,GB-0105,Aurora Infra Technologies GmbH,DEU,9,pii,Offshore
+SYNTHETIC,GB-0106,Meridian Analytics Group Ltd,GBR,46,pii,Offshore
+SYNTHETIC,GB-0107,Lumen Networks Solutions,United States,126,internal,Onshore
+SYNTHETIC,GB-0108,Monsoon Digital Solutions Inc,US,26,pii,Offshore
+SYNTHETIC,GB-0109,Monsoon Data Services Pvt Ltd,IN,122,internal,Onshore
+SYNTHETIC,GB-0110,Saffron Tech Partners Pvt Ltd,IND,7,pii,Offshore
+SYNTHETIC,GB-0111,Saffron Digital Group Pvt Ltd,India,103,pii,Offshore
+SYNTHETIC,GB-0112,Saffron Facility Group Pvt Ltd,IND,3,confidential,Onshore
+SYNTHETIC,GB-0113,Banyan Facility Systems Inc,United States,0,internal,Offshore
+SYNTHETIC,GB-0114,Summit Infra Systems Inc,PHL,38,internal,Onshore
+SYNTHETIC,GB-0115,Sterling Software Technologies Pvt Ltd,IN,43,internal,Onshore
+SYNTHETIC,GB-0116,Indigo Facility Systems Pvt Ltd,IND,17,confidential,Offshore
+SYNTHETIC,GB-0117,Aurora Consulting Partners,IND,16,internal,Onshore
+SYNTHETIC,GB-0118,Vertex Networks Partners Inc,Philippines,10,pii,Onshore
+SYNTHETIC,GB-0119,Northstar Logistics Partners Inc,US,49,pii,Offshore
+SYNTHETIC,GB-0120,Helix Data Technologies Pvt. Ltd.,IN,3,pii,Onshore
+SYNTHETIC,GB-0121,Granite Security Solutions Inc,United States,19,pii,Onshore
+SYNTHETIC,GB-0122,Northstar Digital Group Pvt Ltd,IND,24,confidential,Offshore
+SYNTHETIC,GB-0123,Aurora Analytics Group,IN,38,pii,Offshore
+SYNTHETIC,GB-0124,Vertex Logistics Systems Pvt Ltd,India,1,confidential,Onshore
+SYNTHETIC,GB-0125,Banyan Staffing Technologies Pvt Ltd,IN,26,confidential,Onshore
+SYNTHETIC,GB-0126,Harbor Facility Group Pvt Ltd,IND,48,internal,Offshore
+SYNTHETIC,GB-0127,Cobalt Consulting Technologies Ltd,United Kingdom,10,confidential,Offshore
+SYNTHETIC,GB-0128,Bluepeak Digital Systems Inc,PH,5,pii,Offshore
+SYNTHETIC,GB-0129,Apex Security Technologies GmbH,DEU,5,internal,Onshore
+SYNTHETIC,GB-0130,Evergreen Analytics Technologies,PHL,10,internal,Onshore
+SYNTHETIC,GB-0131,Falcon Digital Systems Inc,US,28,pii,Onshore
+SYNTHETIC,GB-0132,STERLING DATA PARTNERS LTD,GBR,27,internal,Onshore
+SYNTHETIC,GB-0133,Northstar Networks Solutions Inc,USA,46,pii,Offshore
+SYNTHETIC,GB-0134,silverline payroll systems pvt ltd,IND,38,pii,Onshore
+SYNTHETIC,GB-0135,Crest Facility Technologies,IND,52,internal,Offshore
+SYNTHETIC,GB-0136,Redwood Payroll Solutions Pvt Ltd,IN,8,confidential,Onshore
+SYNTHETIC,GB-0137,Apex Digital Tech,USA,12,internal,Offshore
+SYNTHETIC,GB-0138,Zenith Tech Solutions GmbH,Germany,0,internal,Onshore
+SYNTHETIC,GB-0139,Silverline Security Solutions Pvt Ltd,India,32,internal,Onshore
+SYNTHETIC,GB-0140,Keystone Logistics Group Pvt Ltd,IN,37,internal,Offshore
+SYNTHETIC,GB-0141,Evergreen Print Partners Pvt Ltd,IND,29,internal,Onshore
+SYNTHETIC,GB-0142,Redwood Digital Services Private Limited,India,83,internal,Onshore
+SYNTHETIC,GB-0143,Saffron Software Services Inc,United States,0,internal,Onshore
+SYNTHETIC,GB-0144,Harbor Digital Services,US,7,internal,Onshore
+SYNTHETIC,GB-0145,Quantum Data Solutions,United Kingdom,0,internal,Onshore
+SYNTHETIC,GB-0146,Saffron Payroll Partners,India,38,pii,Onshore
+SYNTHETIC,GB-0147,northstar cloud solutions inc,United States,1,pii,Offshore
+SYNTHETIC,GB-0148,COBALT DATA SYSTEMS LTD,UK,1,pii,Offshore
+SYNTHETIC,GB-0149,harbor data services inc,US,3,pii,Onshore
+SYNTHETIC,GB-0150,Pinnacle Logistics Technologies Pvt Ltd,IND,0,internal,Onshore
